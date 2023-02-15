@@ -1,3 +1,4 @@
+## Gold Gym Management System
 ## Background
 With the increase in awareness to stay fit and the health benefits that come with it, there has been
 a rise in gym subscriptions. With this growth in demand for fitness centers Gym franchises are
