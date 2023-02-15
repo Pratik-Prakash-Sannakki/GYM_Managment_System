@@ -7,8 +7,8 @@ Legacy systems involve maintaining customer records locally and in a manually wr
 format. This is an arduous and financially intensive process.
 
 ## Purpose
-• Building a database management system to maintain subscribed customer records.
-• Ease of accessing, modifying, and deleting customer records.
+• Building a database management system to maintain subscribed customer records.\
+• Ease of accessing, modifying, and deleting customer records. \
 • Avoiding redundant customer records, preventing loss of customer data and costeffective record maintenance.
 
 ## Scope
