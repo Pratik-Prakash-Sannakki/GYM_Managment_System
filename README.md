@@ -21,8 +21,8 @@ The automated database system linked with an IOT/sensor-based gym entry system t
 access to only subscribed members.
 
 ## Team:
-Kushal Upadhyay
-Vrushali Phaltankar
-Pratik Prakash Sannakki
-Amitkumar Radheshyam Yadav
-Hemanth Ramesh
+1. Kushal Upadhyay
+2. Vrushali Phaltankar
+3. Pratik Prakash Sannakki
+4. Amitkumar Radheshyam Yadav
+5. Hemanth Ramesh
