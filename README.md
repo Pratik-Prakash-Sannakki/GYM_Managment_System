@@ -19,3 +19,10 @@ seamless experience.
 ## Future Scope
 The automated database system linked with an IOT/sensor-based gym entry system to provide
 access to only subscribed members.
+
+## Team:
+Kushal Upadhyay
+Vrushali Phaltankar
+Pratik Prakash Sannakki
+Amitkumar Radheshyam Yadav
+Hemanth Ramesh
