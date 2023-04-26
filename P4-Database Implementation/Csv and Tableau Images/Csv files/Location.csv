@@ -1,0 +1,6 @@
+Location_ID,State,City,Area,Street,Zip_Code,Building_Size
+1001,California,Los Angeles,Hollywood,Sunset Blvd,90028,10000 sq ft
+1002,New York,New York City,Manhattan,5th Avenue,10001,8000 sq ft
+1003,Texas,Houston,Downtown,Main St,77002,5000 sq ft
+1004,Florida,Miami,South Beach,Collins Ave,33139,12000 sq ft
+1005,Illinois,Chicago,The Loop,Wacker Dr,60606,7500 sq ft

@@ -1,0 +1,11 @@
+E_ID,E_Name,E_SSN,E_DOB,E_PhoneNumber,E_Email,E_Salary,E_Street,E_City,E_State,E_Hired_Date,E_Type,Location_ID,Dept_ID,ManagerID
+5001,John Doe,123456789,1990-01-01,123-456-7890,johndoe@email.com,50000,123 Main St,Los Angeles,CA,2023-04-11,Management,1001,4010,NULL
+5002,Jane Smith,987654321,1995-02-14,987-654-3210,janesmith@email.com,60000,456 Oak St,Miami,FL,2023-04-11,Management,1004,4010,NULL
+5003,Michael Johnson,456123789,1985-05-10,456-123-7890,alexjohnson@email.com,45000,789 Elm St,New York City,NY,2023-04-11,Management,1002,4003,5001
+5004,Mitchell Marsh,789654123,1993-09-22,789-654-1230,lisamartinez@email.com,55000,321 Pine St,Chicago,IL,2023-04-11,Management,1005,4002,NULL
+5005,David Brown,852369741,1992-03-05,852-369-7410,davidbrown@email.com,50000,147 Maple St,Miami,FL,2023-04-11,Management,1004,4003,5002
+5006,Emily Garcia,369852147,1998-11-30,369-852-1470,emilygarcia@email.com,45000,258 Oak St,Los Angeles,CA,2023-04-11,Employee,1001,4005,5001
+5007,John Done,123456789,1990-01-01,123-456-7890,johndoe@email.com,50000,123 Main St,Houston,TX,2023-04-11,Manager,1003,4005,5002
+5008,Steve Smith,987654321,1995-02-14,987-654-3210,janesmith@email.com,60000,456 Oak St,Chicago,IL,2023-04-11,Manager,1005,4005,5001
+5009,Alex Carrey,456123789,1985-05-10,456-123-7890,alexjohnson@email.com,45000,789 Elm St,New York City,NY,2023-04-11,Employee,1002,4005,5002
+5010,Lisa Mary,789654123,1993-09-22,789-654-1230,lisamartinez@email.com,55000,321 Pine St,Houston,TX,2023-04-11,Employee,1003,4005,5001
